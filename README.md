@@ -1,9 +1,9 @@
-[![Aruga](https://github.com/ArugaZ/ArugaZ/blob/main/images/github-banner.jpg?raw=true)](https://github.com/ArugaZ/ArugaZ)
+[![Aruga](https://github.com/X-PrCx12/X-PrCx12/blob/main/images/detro.jpg?raw=true)](https://github.com/ArugaZ/ArugaZ)
 <h1 align='center'> Hi there! :wave:</h1>
-<p align='center'>I'm Aruga</p>
+<p align='center'>I'm Pasha</p>
 <p align='center'>
-<a href="https://instagram.com/ini.arga"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/pashaar99_"><img height="30" src="https://github.com/X-PrCx12/X-PrCx12/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 </p><br/>
 
 
-![https://github-readme-stats.vercel.app/api?username=ArugaZ&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=ArugaZ&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
+![https://github-readme-stats.vercel.app/api?username=X-PrCx12&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=X-PrCx12&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
