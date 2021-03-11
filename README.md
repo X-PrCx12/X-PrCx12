@@ -2,7 +2,7 @@
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>I'm Pasha</p>
 <p align='center'>
-<a href="https://instagram.com/pashaar99_"><img height="30" src="https://github.com/X-PrCx12/X-PrCx12/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/pashaar99_"><img height="30" src="https://github.com/X-PrCx12/X-PrCx12/blob/master/images/instagram.svg"></a>&nbsp;&nbsp;
 </p><br/>
 
 
