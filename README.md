@@ -1,4 +1,4 @@
-[![Pasha](https://github.com/X-PrCx12/X-PrCx12/blob/main/images/detro.jpg?raw=true)](https://github.com/ArugaZ/ArugaZ)
+[![Pasha](https://github.com/X-PrCx12/X-PrCx12/blob/main/images/IMG-20210309-WA0104.jpg?raw=true)](https://github.com/X-PrCx12/X-PrCx12)
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>I'm Pasha</p>
 <p align='center'>
