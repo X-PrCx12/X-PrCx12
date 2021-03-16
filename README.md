@@ -1,4 +1,4 @@
-[![](https://github.com/X-PrCx12/X-PrCx12/blob/master/images/)
+[![Pasha](https://github.com/X-PrCx12/X-PrCx12/blob/master/images/)
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>I'm Pasha</p>
 <p align='center'>
