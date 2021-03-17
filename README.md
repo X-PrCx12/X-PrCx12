@@ -1,4 +1,4 @@
-[![m](https://github.com/X-PrCx12/X-PrCx12/blob/master/images/IMG-20210307-WA0038.jpg)
+[![m](https://github.com/X-PrCx12/X-PrCx12/blob/master/images/thumbnail.jpeg)
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>I'm Pasha</p>
 <p align='center'>
